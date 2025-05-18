@@ -32,3 +32,6 @@ Example with claude desktop config
             ]
         }
 ```
+
+## Example
+![alt text](demo.png "Demo text")
